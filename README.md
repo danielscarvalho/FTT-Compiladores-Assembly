@@ -8,6 +8,7 @@ Referências:
 - https://www.nasm.us/
 - https://cs.lmu.edu/~ray/notes/nasmtutorial/
 - http://cs.wellesley.edu/~cs342/fall12/papers/isa.pdf
+- https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-2a-manual.pdf
 - https://www.tutorialspoint.com/assembly_programming/index.htm
 - https://books.goalkicker.com/CBook/
 - Livro do dragão [Compilers: Principles, Techniques, and Tools](https://www.google.com/search?q=compilers+dragon+book)
