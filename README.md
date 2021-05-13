@@ -14,4 +14,5 @@ Referências:
 - http://www.jegerlehner.ch/intel/IntelCodeTable.pdf
 - https://www.tutorialspoint.com/assembly_programming/index.htm
 - https://books.goalkicker.com/CBook/
+- https://en.wikibooks.org/wiki/X86_Assembly/Interfacing_with_Linux
 - Livro do dragão [Compilers: Principles, Techniques, and Tools](https://www.google.com/search?q=compilers+dragon+book)
